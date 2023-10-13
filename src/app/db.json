@@ -1,0 +1,60 @@
+{
+  "posts": [
+    {
+      "name": "Ramila",
+      "email": "23archu997@gmail.com",
+      "city": "Chembur",
+      "pincode": 400074,
+      "PhoneNumber": 8928066168,
+      "id": 3
+    },
+    {
+      "name": "Raj ",
+      "email": "23archu997@gmail.com",
+      "city": "Delhi",
+      "pincode": 400074,
+      "PhoneNumber": 85858585858,
+      "id": 4
+    },
+    {
+      "name": "Arjun",
+      "email": "23archu997@gmail.com",
+      "city": "Chembur",
+      "pincode": 400074,
+      "PhoneNumber": 8928066168,
+      "id": 5
+    },
+    {
+      "name": "Ramesh",
+      "email": "23archu997@gmail.com",
+      "city": "Chembur",
+      "pincode": 400074,
+      "PhoneNumber": 26626265265,
+      "id": 6
+    },
+    {
+      "name": "Srajan Sir",
+      "email": "23soni997@gmail.com",
+      "city": "Bandra",
+      "pincode": 400074,
+      "PhoneNumber": 64949949,
+      "id": 7
+    },
+    {
+      "name": "ramesh",
+      "email": "bjjggi@gmail.com",
+      "city": "varanasi",
+      "pincode": 276201,
+      "PhoneNumber": 946666665,
+      "id": 8
+    },
+    {
+      "name": "sachin",
+      "email": "23archu997@gmail.com",
+      "city": "Chennai",
+      "pincode": 400074,
+      "PhoneNumber": 646464,
+      "id": 9
+    }
+  ]
+}
